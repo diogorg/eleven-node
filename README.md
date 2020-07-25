@@ -1,15 +1,11 @@
-Esta finalizado.
-Tem alguns pontos de melhorias:
-- Validar e sanitizar todas as entradas.
-- Alguns TRY.
-- Melhorar o log.
-- Verificar se os serviços estão de pé.
-- Mopdificar alguns acessos usando spread.
-- Criar casos de teste.
-- outros pontos...
+# Comandos para levantar o ambiente:
+- yarn update
+- json-server --watch data/blog.json --port 3001
+- json-server --watch data/datalake.json --port 3002
+- yarn start
 
-
-Muito obrigado ;D 
+# Dúvidas?
+diogorg@gmail.com
 
 # Teste Dev - Node
 Olá pessoa, o seu teste é composto pelo desenvolvimento de aplicação backend consumindo APIs.
