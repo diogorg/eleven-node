@@ -1,0 +1,137 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Carteira Eleven"
+    },
+    {
+      "id": 2,
+      "name": "Premium"
+    },
+    {
+      "id": 3,
+      "name": "Eleven Full AAI"
+    },
+    {
+      "id": 4,
+      "name": "Fusion Analysis"
+    },
+    {
+      "id": 5,
+      "name": "Trader"
+    },
+    {
+      "id": 6,
+      "name": "One - Plus"
+    },
+    {
+      "id": 7,
+      "name": "One - Spot 3"
+    },
+    {
+      "id": 8,
+      "name": "One - Spot 2"
+    },
+    {
+      "id": 9,
+      "name": "One - Spot 1"
+    },
+    {
+      "id": 10,
+      "name": "One - Relatórios"
+    },
+    {
+      "id": 11,
+      "name": "Pacote Renda Variável"
+    },
+    {
+      "id": 12,
+      "name": "Renda Fixa"
+    },
+    {
+      "id": 13,
+      "name": "Carteira Eleven"
+    },
+    {
+      "id": 14,
+      "name": "Renda Variável"
+    }
+  ],
+  "user": [
+    {
+      "name": "xxxxxxxxxx",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Pedro Ferreira",
+      "email": "",
+      "avatar": "",
+      "password": "asdsadasds",
+      "product_id": 1
+    },
+    {
+      "name": "aaaa",
+      "email": "dsadsa",
+      "avatar": "dasdas",
+      "password": "12321",
+      "id": 3
+    },
+    {
+      "name": "Testandooo",
+      "email": "dsadsa@dasdas.com",
+      "avatar": "",
+      "password": "asdasdas",
+      "id": 4
+    },
+    {
+      "name": "updated",
+      "email": "aaa@aaa.com",
+      "avatar": "avatar",
+      "password": "password123",
+      "id": 5
+    },
+    {
+      "name": "updated",
+      "email": "aaa@aaa.com",
+      "avatar": "avatar",
+      "password": "password123",
+      "id": 6
+    },
+    {
+      "name": "updated",
+      "email": "aaa@aaa.com",
+      "avatar": "avatar",
+      "password": "password123",
+      "id": 7
+    },
+    {
+      "name": "updated",
+      "email": "aaa@aaa.com",
+      "avatar": "avatar",
+      "password": "password123",
+      "id": 8
+    },
+    {
+      "name": "updated",
+      "email": "aaa@aaa.com",
+      "avatar": "avatar",
+      "password": "password123",
+      "id": 9
+    },
+    {
+      "name": "updated",
+      "email": "aaa@aaa.com",
+      "avatar": "avatar",
+      "password": "password123",
+      "id": 10
+    },
+    {
+      "name": "updated",
+      "email": "aaa@aaa.com",
+      "avatar": "avatar",
+      "password": "password123",
+      "id": 11
+    }
+  ]
+}
