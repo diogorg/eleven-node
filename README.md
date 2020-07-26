@@ -1,5 +1,5 @@
 # Comandos para levantar o ambiente:
-- yarn update
+- yarn install
 - json-server --watch data/blog.json --port 3001
 - json-server --watch data/datalake.json --port 3002
 - yarn start
